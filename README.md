@@ -5,7 +5,7 @@
 - 💼 Atualmente produzindo projetos para ganhar experiencia
 
 <div style="display: flex"><!-- Cartões -->
-  <a href="https://github.com/archiezinho">
+  <a href="[https://github.com/archiezinho](https://github.com/Archiezinho?tab=repositories)">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiezinho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
