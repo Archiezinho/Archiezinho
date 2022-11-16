@@ -6,7 +6,7 @@
 
 <div style="display: flex"><!-- Cartões -->
   <a href="https://github.com/archiezinho">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiezinho&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archiezinho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <hr>
