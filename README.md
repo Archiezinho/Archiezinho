@@ -1,7 +1,7 @@
 ### Ola Visitantes 👋
 ### Me chamo Matheus Lopes, Aluno do Senac/Santos
 
-- 🎓 Estudo programação Front/Back-end
+- 🎓 Estudo programação Back-end
 - 💼 Atualmente produzindo projetos para ganhar experiencia
 
 <div style="display: flex"><!-- Cartões -->
